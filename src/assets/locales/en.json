@@ -1,0 +1,11 @@
+{
+    "title": "English",
+    "login":{
+        "title": "Sign In",
+        "email": "E-Mail Address",
+        "password": "Password",
+        "signin": "Sign In",
+        "forgot": "Forgot Password",
+        "activate": "Activate Account"
+    }
+}

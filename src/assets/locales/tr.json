@@ -1,0 +1,11 @@
+{
+    "title": "Türkçe",
+    "login": {
+        "title": "Giriş Yap",
+        "email": "E-Posta Adresi",
+        "password": "Şifre",
+        "signin": "Giriş Yap",
+        "forgot": "Şifremi Unuttum",
+        "activate": "Hesabımı Aktifleştir"
+    }
+}
